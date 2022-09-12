@@ -24,7 +24,7 @@ design:
   view: card
   flip_alt_rows: true
   background:
-    image: lmf.jpg
+    image: 1.jpg
   spacing:
     padding:
       - 0
