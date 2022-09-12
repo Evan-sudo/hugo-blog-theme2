@@ -1,8 +1,8 @@
 ---
 title: 刘牧凡
 role: 大四
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include reinforcement learning, adaptive bitrate and
+  Joint Communication and Sensing .
 social:
   - icon: envelope
     icon_pack: fas
