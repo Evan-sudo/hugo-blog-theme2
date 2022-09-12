@@ -1,7 +1,7 @@
 ---
 title: 刘牧凡
 role: 大四
-avatar_filename: lmf.jpg
+avatar_filename: ""
 bio: My research interests include reinforcement learning, adaptive bitrate and
   Joint Communication and Sensing .
 social:
