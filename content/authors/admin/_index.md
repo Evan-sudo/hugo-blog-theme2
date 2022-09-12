@@ -1,6 +1,6 @@
 ---
-title: Liu Mufan
-role: undergraduate
+title: 刘牧凡
+role: 大四
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 social:
@@ -14,13 +14,10 @@ social:
     icon_pack: fab
     link: https://instagram.com/geocushen
 organizations:
-  - name: 腾讯
+  - name: 电子科技大学
     url: ""
 superuser: true
 status:
   icon: ☕️
 ---
-
 Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
